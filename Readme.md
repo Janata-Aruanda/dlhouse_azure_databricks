@@ -8,7 +8,10 @@ Para esta atividade, foi utilizada uma conta gratuita no Azure.
 Atualmente, a arquitetura não contempla etapas relacionadas à configuração de rede. Este aspecto será aprimorado em versões futuras do projeto, garantindo maior robustez e segurança.
 
 
-Icone: ![](/img/Microsoft_Azure_Logo.svg.png) ![](/img/databricks.png) ![](/img/Apache_Spark_logo.svg.png)
+<img src="/img/Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure" width="150">
+<img src="/img/databricks.png" alt="Databricks" width="150">
+<img src="/img/Apache_Spark_logo.svg.png" alt="Apache Spark" width="150">
+
 
 
 ----
